@@ -1,0 +1,13 @@
+C:\Users\Dana\source\repos\WebApplication\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.deps.json
+C:\Users\Dana\source\repos\WebApplication\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.json
+C:\Users\Dana\source\repos\WebApplication\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.dev.json
+C:\Users\Dana\source\repos\WebApplication\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\Dana\source\repos\WebApplication\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\Dana\source\repos\WebApplication\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dana\source\repos\WebApplication\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfoInputs.cache
+C:\Users\Dana\source\repos\WebApplication\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfo.cs
+C:\Users\Dana\source\repos\WebApplication\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Dana\source\repos\WebApplication\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\Dana\source\repos\WebApplication\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\Dana\source\repos\WebApplication\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.genruntimeconfig.cache
+C:\Users\Dana\source\repos\WebApplication\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.AssemblyReference.cache
