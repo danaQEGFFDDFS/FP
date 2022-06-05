@@ -1,0 +1,24 @@
+﻿@model List<DataLayer.Entityes.OrderShop>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+
+    @*<h1>@Model.HelloMessage</h1>*@
+
+
+    <div class="text-center">
+        <h1 class="display-4">Добро пожаловать!</h1>
+        <h1 class="display-4">Интернет-магазин одежды "Аurora"</h1>
+        <h1 class="display-4">Ознакомится со списком покупателей можно ниже</h1>
+        <div>
+
+
+            <a asp-action="ListCustomers" asp-controller="Home">ListCustomers</a><br />
+
+        </div>
+    </div>
+    <h1 class="display-4">Хорошего дня!</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
